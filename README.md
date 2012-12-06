@@ -1,2 +1,1 @@
-progress-spec
-=============
+Spec under development, see the [issues](progress-spec/issues)
